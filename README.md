@@ -1,4 +1,4 @@
-# Hi, I'm Paulo Ricardo! 
+### Hi, I'm Paulo Ricardo! 
 
 ### About me
 I am an enthusiast and passionate about technology and sometimes... I program! :D 
