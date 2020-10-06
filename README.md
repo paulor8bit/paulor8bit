@@ -1,6 +1,6 @@
 ### Hi, I'm Paulo Ricardo! :D
 
-I am an enthusiast and passionate about technology and sometimes... I program! :)
+I am enthusiast and passionate for technology and sometimes... I code! :)
 
 Get in Touch with me 👨🏻‍💻 <a href="https://in.linkedin.com/in/paulor8bit">
   <img align="left" alt="Paulo Ricardo - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
