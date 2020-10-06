@@ -1,7 +1,6 @@
-### Hi, I'm Paulo Ricardo! 
+### Hi, I'm Paulo Ricardo! :D
 
-### About me
-I am an enthusiast and passionate about technology and sometimes... I program! :D 
+I am an enthusiast and passionate about technology and sometimes... I program! :)
 
 Get in Touch with me 👨🏻‍💻 <a href="https://in.linkedin.com/in/paulor8bit">
   <img align="left" alt="Paulo Ricardo - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
