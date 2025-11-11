@@ -1,13 +1,7 @@
 ### Hi, I'm Paulo Ricardo. :D
 
 I am enthusiastic and passionate for technology and sometimes... I code! :)
-
-Get in Touch with me 👨🏻‍💻 <a href="https://in.linkedin.com/in/paulor8bit">
-  <img align="left" alt="Paulo Ricardo - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a><a href="mailto:paulor8bit@gmail.com">
-  <img align="left" alt="Paulo Ricardo - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a>
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=20&lines=Olá,+sou+Paulinho!;Apaixonado+por+tecnogatomagia+🐱✨;Bem-vindo+ao+meu+GitHub!+🚀)
 <p></p>
 Apaixonado por criar soluções criativas e funcionais, com um carinho especial pelo universo dos games e pela estética retro. Minha jornada no mundo da programação é marcada pela curiosidade e pela constante busca por novos aprendizados, explorando desde o desenvolvimento de jogos até aplicações web e mobile.
 
@@ -50,6 +44,7 @@ Aqui estão alguns projetos que representam minha paixão por desenvolvimento e 
 Estou sempre aberto a novas conexões e oportunidades. Você pode me encontrar em:
 
 - **GitHub:** [paulor8bit](https://github.com/paulor8bit)
+- **Email:** [paulor8bit@gmail.com](paulor8bit@gmail.com)
 - **Localização:** Maceió, Alagoas, Brasil 🌴
 
 ![paulor8bit's github stats](https://github-readme-stats.vercel.app/api?username=paulor8bit&show_icons=true&theme=radical)
@@ -63,3 +58,8 @@ Estou sempre aberto a novas conexões e oportunidades. Você pode me encontrar e
     <img src="https://komarev.com/ghpvc/?username=paulor8bit&label=Profile%20views&color=0e75b6&style=flat" alt="paulor8bit profile views" />
   </a>
 </p>
+![GitHub followers](https://img.shields.io/github/followers/paulor8bit?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/paulor8bit?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=paulor8bit&label=Visualizações&color=ff69b4&style=flat)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=20&lines=Olá,+sou+Paulo+Ricardo!;Desenvolvedor+Full-Stack+👨🏻‍💻;Apaixonado+por+tecnogatomagia+🐱✨;Bem-vindo+ao+meu+GitHub!+🚀)
