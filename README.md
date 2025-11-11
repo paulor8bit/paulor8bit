@@ -1,6 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=20&lines=Olá,+sou+Paulinho!;Apaixonado+por+tecnogatomagia+🐱✨;Bem-vindo+ao+meu+GitHub!+🚀)
-<p></p><p></p>
-## Hi, I'm Paulo Ricardo. :D
+
+
+### Hi, I'm Paulo Ricardo. :D
 
 I am enthusiastic and passionate for technology and sometimes... I code! :)
 
