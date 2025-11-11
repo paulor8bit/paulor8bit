@@ -29,7 +29,7 @@ Tenho experiência com um conjunto diversificado de tecnologias, sempre buscando
 - **Frontend:** JavaScript, TypeScript, Vue.js, React, React Native, HTML5, CSS3
 - **Backend:** Node.js, Ruby
 - **Bancos de Dados:** Firebase
-- **Outras Ferramentas:** Electron, p5.js, Webpack, Git
+- **Outras Ferramentas:** Electron, p5.js, Webpack, SonicPi, Git
 
 ## 🎮 Projetos em Destaque
 
