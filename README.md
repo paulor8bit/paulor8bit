@@ -21,7 +21,7 @@ Apaixonado por criar soluções criativas e funcionais, com um carinho especial 
 
 ## 🚀 Tecnologias e Ferramentas
 
-Tenho experiência com um conjunto diversificado de tecnologias, sempre buscando a melhor ferramenta para cada desafio:
+Tenho experiência com um conjunto diversificado de tecnologias, sempre buscando a melhor ferramenta para cada desafio. Minha principal área de atuação é o desenvolvimento Frontend e Full-Stack, com forte domínio em JavaScript.
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -48,7 +48,14 @@ Aqui estão alguns projetos que representam minha paixão por desenvolvimento e 
 | **[Pixel-Quest](https://github.com/paulor8bit/Pixel-Quest)** | Uma aventura em pixel art que estou desenvolvendo, explorando mecânicas de RPG. | `TypeScript` |
 | **[spaceNavinha](https://github.com/paulor8bit/spaceNavinha)** | Um clássico jogo de nave (Shoot 'em up) feito com a biblioteca p5.js. | `JavaScript`, `p5.js` |
 | **[battle-rpg-pokemon](https://github.com/paulor8bit/battle-rpg-pokemon)** | Uma recriação do sistema de batalha clássico de Pokémon. | `JavaScript` |
-| **[HTML-Live-Runner](https://github.com/paulor8bit/HTML-Live-Runner)** | Um aplicativo de desktop que permite visualizar código HTML em tempo real. | `Electron`, `JavaScript` |
+| **[HTML-Live-Runner](https://github.com/paulor8bit/HTML-Live-Runner)** | Projeto para visualização de documentos PDF como um flipbook interativo. | `PDF`, `JavaScript` |
+| **[flipbook-PDF](https://github.com/paulor8bit/flipbook-PDF)** | Um aplicativo de desktop que permite visualizar código HTML em tempo real. | `Electron`, `JavaScript` |
+| **[RSSNotifica](https://github.com/paulor8bit/RSSNotificaw)** | Ferramenta de notificação e agregação de conteúdo via RSS Feed. | `Electron`, `JavaScript` |
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=paulor8bit&show_icons=true&theme=radical" alt="paulor8bit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulor8bit&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 📫 Como me encontrar
 
@@ -61,4 +68,8 @@ Estou sempre aberto a novas conexões e oportunidades. Você pode me encontrar e
 
 *"Isso não é feitiçaria, é tecnogatomagia!"* 🐱✨
 
-
+<p align="right">
+<a href="https://github.com/paulor8bit">
+    <img src="https://komarev.com/ghpvc/?username=paulor8bit&label=Profile%20views&color=0e75b6&style=flat" alt="paulor8bit profile views" />
+  </a>
+</p>
