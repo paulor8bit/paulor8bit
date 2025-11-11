@@ -1,7 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=20&lines=Olá,+sou+Paulinho!;Apaixonado+por+tecnogatomagia+🐱✨;Bem-vindo+ao+meu+GitHub!+🚀)
 <p></p><p></p>
 ### Hi, I'm Paulo Ricardo. :D
+
 I am enthusiastic and passionate for technology and sometimes... I code! :)
+
 Apaixonado por criar soluções criativas e funcionais, com um carinho especial pelo universo dos games e pela estética retro. Minha jornada no mundo da programação é marcada pela curiosidade e pela constante busca por novos aprendizados, explorando desde o desenvolvimento de jogos até aplicações web e mobile.
 
 ## 🚀 Tecnologias e Ferramentas
