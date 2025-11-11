@@ -11,7 +11,6 @@ Get in Touch with me 👨🏻‍💻 <a href="https://in.linkedin.com/in/paulor8
 ![paulor8bit's github stats](https://github-readme-stats.vercel.app/api?username=paulor8bit&show_icons=true&theme=radical)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulor8bit&hide=html&theme=radical" alt="paulor" />
 
-# Olá, eu sou o Paulo Ricardo (paulor8bit) 👋
 
 <p align="center">
   <img src="https://github.com/paulor8bit/paulor8bit/blob/main/pixel_art_profile.png?raw=true" alt="Pixel Art Profile" width="200"/>
