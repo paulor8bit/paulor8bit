@@ -8,13 +8,6 @@ Get in Touch with me 👨🏻‍💻 <a href="https://in.linkedin.com/in/paulor8
   <img align="left" alt="Paulo Ricardo - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 
-![paulor8bit's github stats](https://github-readme-stats.vercel.app/api?username=paulor8bit&show_icons=true&theme=radical)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulor8bit&hide=html&theme=radical" alt="paulor" />
-
-
-<p align="center">
-  <img src="https://github.com/paulor8bit/paulor8bit/blob/main/pixel_art_profile.png?raw=true" alt="Pixel Art Profile" width="200"/>
-</p>
 <p></p>
 Apaixonado por criar soluções criativas e funcionais, com um carinho especial pelo universo dos games e pela estética retro. Minha jornada no mundo da programação é marcada pela curiosidade e pela constante busca por novos aprendizados, explorando desde o desenvolvimento de jogos até aplicações web e mobile.
 
@@ -59,6 +52,8 @@ Estou sempre aberto a novas conexões e oportunidades. Você pode me encontrar e
 - **GitHub:** [paulor8bit](https://github.com/paulor8bit)
 - **Localização:** Maceió, Alagoas, Brasil 🌴
 
+![paulor8bit's github stats](https://github-readme-stats.vercel.app/api?username=paulor8bit&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulor8bit&hide=html&theme=radical" alt="paulor" />
 ---
 
 *"Isso não é feitiçaria, é tecnogatomagia!"* 🐱✨
