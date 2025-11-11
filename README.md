@@ -52,10 +52,6 @@ Aqui estão alguns projetos que representam minha paixão por desenvolvimento e 
 | **[flipbook-PDF](https://github.com/paulor8bit/flipbook-PDF)** | Um aplicativo de desktop que permite visualizar código HTML em tempo real. | `Electron`, `JavaScript` |
 | **[RSSNotifica](https://github.com/paulor8bit/RSSNotificaw)** | Ferramenta de notificação e agregação de conteúdo via RSS Feed. | `Electron`, `JavaScript` |
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=paulor8bit&show_icons=true&theme=radical" alt="paulor8bit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulor8bit&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ## 📫 Como me encontrar
 
