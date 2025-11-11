@@ -49,8 +49,16 @@ Estou sempre aberto a novas conexões e oportunidades. Você pode me encontrar e
 - **Email:** [paulor8bit@gmail.com](paulor8bit@gmail.com)
 - **Localização:** Maceió, Alagoas, Brasil 🌴
 
-![paulor8bit's github stats](https://github-readme-stats.vercel.app/api?username=paulor8bit&show_icons=true&theme=radical)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulor8bit&hide=html&theme=radical" alt="paulor" />
+## 📊 Estatísticas e Atividade
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=paulor8bit&show_icons=true&theme=radical&hide_border=true" alt="paulor8bit's github stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulor8bit&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulor8bit&hide=html&theme=radical&layout=compact&hide_border=true" alt="paulor" />
+</p>
 ---
 
 *"Isso não é feitiçaria, é tecnogatomagia!"* 🐱✨
