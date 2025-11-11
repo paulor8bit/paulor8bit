@@ -58,8 +58,8 @@ Estou sempre aberto a novas conexões e oportunidades. Você pode me encontrar e
     <img src="https://komarev.com/ghpvc/?username=paulor8bit&label=Profile%20views&color=0e75b6&style=flat" alt="paulor8bit profile views" />
   </a>
 </p>
-![GitHub followers](https://img.shields.io/github/followers/paulor8bit?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/paulor8bit?label=Stars&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=paulor8bit&label=Visualizações&color=ff69b4&style=flat)
+[GitHub followers](https://img.shields.io/github/followers/paulor8bit?label=Followers&style=social)
+[GitHub stars](https://img.shields.io/github/stars/paulor8bit?label=Stars&style=social)
+[Profile Views](https://komarev.com/ghpvc/?username=paulor8bit&label=Visualizações&color=ff69b4&style=flat)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=20&lines=Olá,+sou+Paulo+Ricardo!;Desenvolvedor+Full-Stack+👨🏻‍💻;Apaixonado+por+tecnogatomagia+🐱✨;Bem-vindo+ao+meu+GitHub!+🚀)
